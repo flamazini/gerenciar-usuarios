@@ -1,0 +1,24 @@
+{
+  "name": "gerenciar-usuarios",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/flamazini/gerenciar-usuarios.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/flamazini/gerenciar-usuarios/issues"
+  },
+  "homepage": "https://github.com/flamazini/gerenciar-usuarios#readme",
+  "dependencies": {
+    "chai": "^4.3.10",
+    "mocha": "^11.7.2"
+  }
+}
